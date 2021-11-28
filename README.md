@@ -8,8 +8,6 @@ BackEnd --->.env file set your mongocloud URL.
 ## Start the Backend
 cd src-->cd BackEnd--> npm install then node Server.js
 
-## Credentials
-check credential file in public folder.
 
 ## Start FrontEnd
 new terminal
